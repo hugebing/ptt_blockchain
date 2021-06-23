@@ -9,3 +9,5 @@
 請在Infura_URL.txt填入自己的Infura API金鑰
 
 執行gui.py
+
+合約地址：0x966d50650488925d9BcfFe267aFEe899B1E8716F
